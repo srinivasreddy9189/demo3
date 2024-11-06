@@ -1,0 +1,16 @@
+.box13{
+    background-image: url(https://assets.ccbp.in/frontend/react-js/profile-bg.png);
+    width: 230px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    background-repeat: no-repeat;
+}
+.bo{
+    position: relative;
+}
+.profilename{
+    color: #6366f1;
+}

@@ -1,0 +1,23 @@
+.cont8{
+    background-image: url(https://assets.ccbp.in/frontend/react-js/home-lg-bg.png);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .log_btn1{
+    background-color: #4f46e5;
+    color: white;
+    box-shadow: none;
+}
+.log_btn1:focus{
+    
+    color: white;
+    outline: none;
+    box-shadow: none;
+}
+.log_btn1:hover{
+    color: white;
+}

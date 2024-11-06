@@ -1,0 +1,65 @@
+.black_cont{
+    background-color: black;
+   
+}
+.inp1{
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    color: white;
+}
+.inp1:focus{
+    
+    border: none;
+    box-shadow: none;
+    color: white;
+    outline: none;
+}
+.but1{
+    border: none;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: large;
+    
+}
+.img_logo{
+    width: 50px;
+}
+.box{
+    background-color: #272727;
+    border-radius: 10px;
+}
+.hr{
+    border-bottom: 1px solid white;
+}
+.wid{
+    height: 10px;
+}
+
+.cont11{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.cont12{
+    background-color: black;
+    height: 100vh;
+}
+link{
+    text-decoration: none;
+    color: white;
+}
+.col_fixed{
+    position: sticky;
+    top:0;
+    height: 130vh;
+}
+.col_scroll{
+    position: sticky;
+    height: 150vh;
+    overflow: scroll;
+}
+.col_scroll::-webkit-scrollbar{
+    width: 0;
+}
